@@ -19,4 +19,4 @@ This project is a responsive tribute page built using HTML and CSS. It adjusts s
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tribute-page.git
+   git clone https://github.com/tarekmonowar/Tribute-responsive-page
